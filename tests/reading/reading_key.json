@@ -1,0 +1,12 @@
+{
+  "r1_mc1":"Every Sunday",
+  "r1_mc2":"Fruit and bread",
+  "r1_mc3":"Neighbors",
+  "r1_mc4":"Flowers",
+  "r1_mc5":"Noon",
+  "r1_sa1":["fruit","bread","oranges","flowers"],
+  "r1_sa2":["near her home","near home","near her house"],
+  "r1_sa3":["neighbors","many neighbors"],
+  "r1_sa4":["Sunday","Every Sunday"],
+  "r1_sa5":["noon","midday"]
+}

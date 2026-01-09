@@ -1,0 +1,17 @@
+{
+  "items": [
+    {
+      "id": "l1",
+      "audio": "audio/l1.mp3",
+      "task": "Listen and write a short summary (1–2 sentences) of the main topic.",
+      "type": "summary"
+    },
+    {
+      "id": "l2",
+      "audio": "audio/l2.mp3",
+      "task": "Listen and write a short summary (1–2 sentences) of the main topic.",
+      "type": "summary"
+    }
+  ],
+  "notes": "Place MP3 files in tests/listening/audio/ named l1.mp3 and l2.mp3. Listening items are summarized by test-taker; the key includes sample key points to match against (partial-match scoring allowed)."
+}

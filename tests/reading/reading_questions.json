@@ -1,0 +1,17 @@
+{
+  "passage_id": "r1",
+  "multiple_choice": [
+    {"id":"r1_mc1","question":"When does Maria go to the market?","options":["Every day","Every Sunday","Once a month","Never"]},
+    {"id":"r1_mc2","question":"What does Maria buy?","options":["Cars","Fruit and bread","Books","Clothes"]},
+    {"id":"r1_mc3","question":"Who meets at the market?","options":["Neighbors","Teachers","Doctors","Students"]},
+    {"id":"r1_mc4","question":"What does Maria sometimes buy?","options":["Shoes","Flowers","Toys","Pens"]},
+    {"id":"r1_mc5","question":"When does the market close?","options":["6pm","Noon","9am","Midnight"]}
+  ],
+  "short_answer": [
+    {"id":"r1_sa1","question":"Name one thing Maria buys."},
+    {"id":"r1_sa2","question":"Where is the market?"},
+    {"id":"r1_sa3","question":"Who does Maria meet?"},
+    {"id":"r1_sa4","question":"What day is the market?"},
+    {"id":"r1_sa5","question":"When does the market close?"}
+  ]
+}

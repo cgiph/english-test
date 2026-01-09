@@ -1,0 +1,8 @@
+{
+  "grammar": "tests/grammar/grammar_key.json",
+  "reading": "tests/reading/reading_key.json",
+  "listening": {
+    "l1": {"sample_points":["topic","who","place","time"]},
+    "l2": {"sample_points":["topic","who","place","time"]}
+  }
+}

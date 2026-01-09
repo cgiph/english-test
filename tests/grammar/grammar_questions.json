@@ -1,0 +1,12 @@
+[
+  {"id":"g1","type":"multiple_choice","question":"Choose the correct verb form: She ____ to the store yesterday.","options":["goes","went","gone","going"]},
+  {"id":"g2","type":"multiple_choice","question":"Choose: We ____ breakfast at 7:00 every day.","options":["have","has","had","having"]},
+  {"id":"g3","type":"multiple_choice","question":"Choose the correct article: I saw ____ elephant at the zoo.","options":["a","an","the","no article"]},
+  {"id":"g4","type":"multiple_choice","question":"Choose the correct preposition: The cat is ____ the box.","options":["in","on","at","by"]},
+  {"id":"g5","type":"multiple_choice","question":"Choose the correct verb tense: Yesterday he ____ his homework.","options":["finishes","finished","will finish","is finishing"]},
+  {"id":"g6","type":"gap_fill","question":"Fill: She ____ (to be) late yesterday.","answer_format":"past_simple"},
+  {"id":"g7","type":"gap_fill","question":"Fill: I ____ (to have) two brothers.","answer_format":"present_simple"},
+  {"id":"g8","type":"multiple_choice","question":"Choose correct subject-verb agreement: My friend and I ____ going to the park.","options":["is","are","am","be"]},
+  {"id":"g9","type":"multiple_choice","question":"Choose the correct preposition: He is good ____ tennis.","options":["in","at","on","about"]},
+  {"id":"g10","type":"gap_fill","question":"Fill: They ____ (to go) to school every day.","answer_format":"present_simple"}
+]
